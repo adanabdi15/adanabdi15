@@ -17,11 +17,26 @@ Information Technology Student at
 <h2>👨‍💻 Projects & Technical Skills</h2>
 
 <ul>
-  <li><b>SQL</b> – Database design, queries, and data management</li>
-  <li><b>UNIX</b> – Command-line tools and shell usage</li>
+ <b></b>
+
+  <b>Structured Query Language</b>
+  - [MySQL Healthcare Database](https://github.com/Adanabdi15/mysql-healthcare-database) – Designed and implemented a normalized healthcare database using MySQL, focusing on relational modeling and SQL queries.
+
+  
+<b>Linux</b>
+
+- [Linux & Bash Scripting Projects](https://github.com/Adanabdi15/unix-linux-projects) – Hands-on Linux projects including bash scripting, directory/file management, interactive terminal applications, and real command-line workflows.
+
+
+
   <li><b>PowerShell</b> – Automation and scripting</li>
+
+  
   <li><b>Java</b> – Object-Oriented Programming</li>
+  
   <li><b>Python</b> – Scripting, file handling, and automation</li>
+
+
   <li><b>Linux</b> – System navigation and development environment</li>
 </ul>
 <!--
