@@ -1,41 +1,29 @@
-<h1>Hi, I'm Adan! <br/><a href="https://github.com/Adanabdi15">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">System Admin Professional</a>
+<h1>Hi, I'm Adan! 👋</h1>
 
-<h2>Certifcations:</h2>
+<h3>
+Information Technology Student at 
+<a href="https://github.com/Adanabdi15">GitHub</a>
+</h3>
 
+<hr>
 
-  
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2>🎓 Certifications</h2>
+<ul>
+  <li>In progress</li>
+</ul>
 
-  - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-  
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+<hr>
 
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-  
-- <b>PowerShell</b>
+<h2>👨‍💻 Projects & Technical Skills</h2>
 
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-    
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-    
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-    
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-    
-- <b>Java</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-    
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-    
-- <b>Python</b>
-
-- <b>Linux</b>
-
-
+<ul>
+  <li><b>SQL</b> – Database design, queries, and data management</li>
+  <li><b>UNIX</b> – Command-line tools and shell usage</li>
+  <li><b>PowerShell</b> – Automation and scripting</li>
+  <li><b>Java</b> – Object-Oriented Programming</li>
+  <li><b>Python</b> – Scripting, file handling, and automation</li>
+  <li><b>Linux</b> – System navigation and development environment</li>
+</ul>
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
