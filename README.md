@@ -28,12 +28,11 @@ Information Technology Student at
 
   [Linux & Bash Scripting Projects](https://github.com/Adanabdi15/unix-linux-projects) – Hands-on Linux projects including bash scripting, directory/file management, interactive terminal applications, and real command-line workflows.
 
-
-
-  <li><b>PowerShell</b> – Automation and scripting</li>
-
   
-  <li><b>Java</b> – Object-Oriented Programming</li>
+<li><b>Java</b>
+  
+  [Java Programming Projects](https://github.com/Adanabdi15/java-projects) – Object-oriented Java projects including multi-class programs, control structures, file handling, and algorithmic problem-solving.
+  
   
   <li><b>Python</b> – Scripting, file handling, and automation</li>
 
