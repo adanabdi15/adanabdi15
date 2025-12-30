@@ -19,13 +19,14 @@ Information Technology Student at
 <ul>
  <b></b>
 
-  <b>Structured Query Language</b>
-  - [MySQL Healthcare Database](https://github.com/Adanabdi15/mysql-healthcare-database) – Designed and implemented a normalized healthcare database using MySQL, focusing on relational modeling and SQL queries.
+  <li><b>Structured Query Language</b>
+
+  [MySQL Healthcare Database](https://github.com/Adanabdi15/mysql-healthcare-database) – Designed and implemented a normalized healthcare database using MySQL, focusing on relational modeling and SQL queries.
 
   
-<b>Linux</b>
+<li><b>Linux</b>
 
-- [Linux & Bash Scripting Projects](https://github.com/Adanabdi15/unix-linux-projects) – Hands-on Linux projects including bash scripting, directory/file management, interactive terminal applications, and real command-line workflows.
+  [Linux & Bash Scripting Projects](https://github.com/Adanabdi15/unix-linux-projects) – Hands-on Linux projects including bash scripting, directory/file management, interactive terminal applications, and real command-line workflows.
 
 
 
