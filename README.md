@@ -1,9 +1,12 @@
-<h1>Hi, I'm Adan! 👋</h1>
+<h1>Hi, I'm Adam! 👋</h1>
 
 <h3>
 Information Technology Student at 
-<a href="https://github.com/Adanabdi15">GitHub</a>
+<a href="https://www.umb.edu/">University of Massachusetts Boston</a>
 </h3>
+
+
+
 
 <hr>
 
