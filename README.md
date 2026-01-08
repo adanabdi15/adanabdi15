@@ -17,9 +17,8 @@ and real-world technical experience.
 <h2>🎓 Certifications</h2>
 <ul>
   <li>Google IT Support Professional Certificate (In Progress)</li>
-</ul>
-
-<hr>
+  <li>CompTIA DataSys+ Certificate (In Progress)</li>
+  <li>CompTIA Linux Pro Certificate (In Progress)</li></ul>
 
 <h2>👨‍💻 Projects & Technical Skills</h2>
 
