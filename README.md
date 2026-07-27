@@ -1,4 +1,4 @@
-<h1>Hi, I'm Adam! 👋</h1>
+<h1>Hi, I'm Adan! 👋</h1>
 
 <h3>
 Information Technology Student at 
